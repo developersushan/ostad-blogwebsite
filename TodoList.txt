@@ -1,0 +1,17 @@
+collect backend documentation
+ https://documenter.getpostman.com/view/9518923/2s946k6W8p
+
+discover the back end data flow
+ create a new stand along frontend data flow
+
+install frontend package 
+ -Axios
+ -React-hot toast
+ -tailwindCss
+ -react-router-dom
+ 
+ project structure 
+
+initial route setup
+Layout create
+
